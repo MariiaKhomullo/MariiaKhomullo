@@ -3,7 +3,7 @@
 
 - 🔭 I’m looking for job 
 - 🌱 I’m currently learning **Python, Data Analysis**
-- 📫 Reach me by: [email] (mailto:mariiakhomullo@gmail.com)
+- 📫 Reach me by: [email] (mariiakhomullo@gmail.com)
 - 🌍 I speak English, Russian
 
 ## Languages and tools
