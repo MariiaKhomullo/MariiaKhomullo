@@ -3,7 +3,7 @@
 
 - 🔭 I’m looking for job 
 - 📝 I’m currently learning **Python, Data Analysis**
-- 🌱 I’m currently volunteering for Parki ar Minda
+- 🌱 I’m volunteering for Parki ar Minda at the moment
 - 📫 Reach me by: mariiakhomullo@gmail.com
 - 🌍 I speak English, Russian
 
